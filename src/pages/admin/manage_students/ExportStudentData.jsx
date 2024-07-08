@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import Datatoexel from "./Datatoexel";
+import Datatoexel from "../manage_students/Datatoexel";
 import { Navigate } from "react-router-dom";
 import { Toaster, toast } from "react-hot-toast";
 import Selection from "../../../components/test/Selection";

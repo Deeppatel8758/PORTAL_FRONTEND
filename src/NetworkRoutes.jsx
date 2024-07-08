@@ -9,7 +9,7 @@ switch (mode) {
     domain = "";
     break;
   case "production":
-    domain = "portal_backend.railway.internal";
+    domain = "https://portalbackend-production-f304.up.railway.app/";
 
     break;
   default:
